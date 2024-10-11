@@ -1,0 +1,4 @@
+gradio
+google-cloud-aiplatform[evaluation]
+plotly
+pandas
